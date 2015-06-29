@@ -51,4 +51,6 @@ return vo
 
 打印了
 
-> [LUA-print] param:    .....test..... [LUA-print] param:    .....test..... [LUA-print] once_param:    .....test..... [LUA-print] param:    .....test.....
+```lua
+[LUA-print] param:    .....test..... [LUA-print] param:    .....test..... [LUA-print] once_param:    .....test..... [LUA-print] param:    .....test.....
+```
